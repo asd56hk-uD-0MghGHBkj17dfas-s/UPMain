@@ -3168,7 +3168,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sewingmachine1stfloor.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/sewing-machine"
                 }],
          "type":"tilelayer",
          "visible":true,
