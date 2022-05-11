@@ -2696,7 +2696,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"tea-room.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/tea-room"
                 }],
          "type":"tilelayer",
          "visible":true,
