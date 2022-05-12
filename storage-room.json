@@ -322,7 +322,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/cosplay"
+                 "value":"cosplay-second-floor-updated.json"
                 }],
          "type":"tilelayer",
          "visible":true,

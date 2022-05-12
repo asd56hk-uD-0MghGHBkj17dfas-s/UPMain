@@ -51,7 +51,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":46,
          "id":13,
-         "name":"whiteboard3",
+         "name":"designlab-whiteboard3",
          "opacity":1,
          "properties":[
                 {
@@ -124,7 +124,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":46,
          "id":12,
-         "name":"whiteboard2",
+         "name":"designlab-whiteboard2",
          "opacity":1,
          "properties":[
                 {
@@ -197,7 +197,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":46,
          "id":11,
-         "name":"whiteboard1",
+         "name":"designlab-whiteboard1",
          "opacity":1,
          "properties":[
                 {
@@ -270,13 +270,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":46,
          "id":9,
-         "name":"jitsi3",
+         "name":"designlab-jitsi3",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room"
+                 "value":"my-meeting-room3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -343,13 +343,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":46,
          "id":7,
-         "name":"jitsi2",
+         "name":"designlab-jitsi2",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room"
+                 "value":"my-meeting-room1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -416,13 +416,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":46,
          "id":6,
-         "name":"jitsi1",
+         "name":"designlab-jitsi1",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room"
+                 "value":"my-meeting-room1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -786,7 +786,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/workspacesky-ua"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

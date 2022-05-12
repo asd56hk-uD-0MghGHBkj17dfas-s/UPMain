@@ -96,13 +96,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":10,
-         "name":"jitsi5",
+         "name":"makers-space-jitsi5",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting5"
+                 "value":"makers-space-meeting5"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -163,13 +163,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":11,
-         "name":"jisti4",
+         "name":"makers-space-jisti4",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting4"
+                 "value":"makers-space-meeting4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -230,13 +230,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":9,
-         "name":"jitsi3",
+         "name":"makers-space-jitsi3",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting3"
+                 "value":"makers-space-meeting3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -297,13 +297,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":8,
-         "name":"jitsi2",
+         "name":"makers-space-jitsi2",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting2"
+                 "value":"makers-space-meeting2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -364,13 +364,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":40,
          "id":7,
-         "name":"jitsi1",
+         "name":"makers-space-jitsi1",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting1"
+                 "value":"makers-space-meeting1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -539,7 +539,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/workspacesky-ua"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

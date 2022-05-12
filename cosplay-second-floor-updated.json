@@ -967,7 +967,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/storage-room"
+                 "value":"storage-room.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1026,7 +1026,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/sewing-machine"
+                 "value":"sewingmachine1stfloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1838,13 +1838,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":36,
-         "name":"jitsi-room5",
+         "name":"cosplay-jitsi5",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting5"
+                 "value":"cosplay-meeting5"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -1907,13 +1907,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":35,
-         "name":"jitsi-room4",
+         "name":"cosplay-jitsi4",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting4"
+                 "value":"cosplay-meeting4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -1976,13 +1976,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":34,
-         "name":"jitsi-room3",
+         "name":"cosplay-jitsi3",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting3"
+                 "value":"cosplay-meeting3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -2045,13 +2045,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":33,
-         "name":"jitsi-room2",
+         "name":"cosplay-jitsi2",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting2"
+                 "value":"cosplay-meeting2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -2114,13 +2114,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":32,
-         "name":"jitsi-room1",
+         "name":"cosplay-jitsi1",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meeting1"
+                 "value":"cosplay-meeting1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -2183,7 +2183,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":39,
-         "name":"whiteboard3",
+         "name":"cosplay-whiteboard3",
          "opacity":1,
          "properties":[
                 {
@@ -2252,7 +2252,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":38,
-         "name":"whiteboard2",
+         "name":"cosplay-whiteboard2",
          "opacity":1,
          "properties":[
                 {
@@ -2321,7 +2321,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":42,
          "id":37,
-         "name":"whiteboard1",
+         "name":"cosplay-whiteboard1",
          "opacity":1,
          "properties":[
                 {

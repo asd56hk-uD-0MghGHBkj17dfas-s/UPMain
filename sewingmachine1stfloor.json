@@ -106,13 +106,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":18,
-         "name":"jitsi10",
+         "name":"sewing-machine-jitsi10",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room10"
+                 "value":"sewing-machine-my-meeting-room10"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -178,13 +178,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":17,
-         "name":"jitsi9",
+         "name":"sewing-machine-jitsi9",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room9"
+                 "value":"sewing-machine-my-meeting-room9"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -250,13 +250,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":16,
-         "name":"jitsi8",
+         "name":"sewing-machine-jitsi8",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting8"
+                 "value":"sewing-machine-my-meeting8"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -322,13 +322,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":15,
-         "name":"jitsi7",
+         "name":"sewing-machine-jitsi7",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room7"
+                 "value":"sewing-machine-my-meeting-room7"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -394,13 +394,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":14,
-         "name":"jitsi6",
+         "name":"sewing-machine-jitsi6",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room6"
+                 "value":"sewing-machine-my-meeting-room6"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -466,13 +466,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":13,
-         "name":"jitsi5",
+         "name":"sewing-machine-jitsi5",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room"
+                 "value":"sewing-machine-my-meeting-room"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -538,7 +538,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":11,
-         "name":"jitsi4",
+         "name":"jsewing-machine-itsi4",
          "opacity":1,
          "properties":[
                 {
@@ -549,7 +549,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room4"
+                 "value":"sewing-machine-my-meeting-room4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -615,13 +615,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":10,
-         "name":"jitsi3",
+         "name":"sewing-machine-jitsi3",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room3"
+                 "value":"sewing-machine-my-meeting-room3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -687,13 +687,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":9,
-         "name":"jitsi2",
+         "name":"sewing-machine-jitsi2",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room2"
+                 "value":"sewing-machine-meeting-room2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -759,13 +759,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":45,
          "id":8,
-         "name":"jitsi1",
+         "name":"sewing-machine-jitsi1",
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room1"
+                 "value":"sewing-machine-my-meeting-room1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -1023,7 +1023,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/cosplay"
+                 "value":"cosplay-second-floor-updated.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1141,7 +1141,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/workspacesky-ua"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -2224,7 +2224,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/maker-space"
+                 "value":"makers-space.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2342,7 +2342,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/design-lab"
+                 "value":"designlab.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2460,7 +2460,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/greenhouse"
+                 "value":"greenhouse.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2578,7 +2578,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/ideas-cafe"
+                 "value":"ideas-cafe.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2696,7 +2696,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/tea-room"
+                 "value":"tea-room.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2814,7 +2814,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/mechanical-tunnel"
+                 "value":"mechanical-tunnel.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2932,7 +2932,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/project-foundry"
+                 "value":"project-foundry.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3050,7 +3050,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/nature-scape"
+                 "value":"nature-scape.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3168,7 +3168,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/sewing-machine"
+                 "value":"sewingmachine1stfloor.jon"
                 }],
          "type":"tilelayer",
          "visible":true,

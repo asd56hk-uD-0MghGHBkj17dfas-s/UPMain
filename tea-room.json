@@ -74,7 +74,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":29,
          "id":10,
-         "name":"meeting-room4",
+         "name":"tea-room-jitsi4",
          "opacity":1,
          "properties":[
                 {
@@ -130,7 +130,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":29,
          "id":9,
-         "name":"meeting-room3",
+         "name":"tea-room-jitsi3",
          "opacity":1,
          "properties":[
                 {
@@ -186,7 +186,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":29,
          "id":8,
-         "name":"meeting-room2",
+         "name":"tea-room-jitsi2",
          "opacity":1,
          "properties":[
                 {
@@ -242,7 +242,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":29,
          "id":3,
-         "name":"meeting-room1",
+         "name":"tea-room-jitsi1",
          "opacity":1,
          "properties":[
                 {
@@ -384,7 +384,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/workspacesky-ua"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
