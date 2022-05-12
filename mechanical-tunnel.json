@@ -86,7 +86,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/100roads\/workspacesky-ua\/workspacesky-ua"
                 }],
          "type":"tilelayer",
          "visible":true,
