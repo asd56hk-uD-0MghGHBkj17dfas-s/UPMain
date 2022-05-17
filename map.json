@@ -1168,7 +1168,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sewingmachine1stfloor.jon"
+                 "value":"sewingmachine1stfloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
