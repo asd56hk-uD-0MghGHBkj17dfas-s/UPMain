@@ -3522,7 +3522,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#entrance-red"
+                 "value":"#entrance-red1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3640,7 +3640,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#entrance-red1"
+                 "value":"#entrance-red"
                 }],
          "type":"tilelayer",
          "visible":true,
