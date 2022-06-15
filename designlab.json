@@ -276,7 +276,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room3"
+                 "value":"designlab-my-meeting-room3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -349,7 +349,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room1"
+                 "value":"designlab-my-meeting-room2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -422,7 +422,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"my-meeting-room1"
+                 "value":"designlab-my-meeting-room1"
                 }, 
                 {
                  "name":"jitsiTrigger",

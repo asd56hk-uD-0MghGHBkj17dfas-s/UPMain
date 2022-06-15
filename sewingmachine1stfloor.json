@@ -112,7 +112,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room10"
+                 "value":"sewing-machine-meeting-room10"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -184,7 +184,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room9"
+                 "value":"sewing-machine-meeting-room9"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -328,7 +328,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room7"
+                 "value":"sewing-machine-meeting-room7"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -400,7 +400,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room6"
+                 "value":"sewing-machine-meeting-room6"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -472,7 +472,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room"
+                 "value":"sewing-machine-meeting-room5"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -549,7 +549,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room4"
+                 "value":"sewing-machine-meeting-room4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -621,7 +621,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room3"
+                 "value":"sewing-machine-meeting-room3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -765,7 +765,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sewing-machine-my-meeting-room1"
+                 "value":"sewing-machine-meeting-room1"
                 }, 
                 {
                  "name":"jitsiTrigger",

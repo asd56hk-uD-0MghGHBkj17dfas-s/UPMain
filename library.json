@@ -87,7 +87,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"main"
+                 "value":"library-meeting-room1"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -127,7 +127,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"right"
+                 "value":"library-meeting-room2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -167,7 +167,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"left"
+                 "value":"library-meeting-room3"
                 }, 
                 {
                  "name":"jitsiTrigger",
