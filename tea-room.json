@@ -486,7 +486,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"testtag"
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
